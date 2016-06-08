@@ -1,0 +1,17 @@
+#!/bin/bash
+exec 2>> report.log
+function=`realpath functions`
+for f in "$function"/*.sh
+do
+    source "$f"  
+done
+rnc=`realpath ../../schema`
+disciplines=`realpath ../../disciplines`
+xsl=`realpath ../xsl`
+java=`realpath ../java`
+python=`realpath ../python`
+logiciels=`realpath ../logiciels`
+treetagger=`realpath ../logiciels/treetagger/`
+saxon="java -Xms1024m -Xmx2048m -jar ../logiciels/saxon-9.1.0.8j.jar"
+alias rm='rm -f'
+tbx="ressources/terminologies/termsuite"
