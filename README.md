@@ -13,4 +13,5 @@
 ## TODO
 
 - add exception argument for termith.sh
-- add validation phase before the text extraction 
+- add validation phase before the text extraction
+- externalize treetagger
