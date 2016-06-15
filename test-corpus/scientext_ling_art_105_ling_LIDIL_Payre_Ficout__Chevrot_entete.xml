@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>corpus scientext</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>LIDILEM -Projet Scientext -Université Grenoble 3 -Stendhal -F. Grossmann (francis.grossmann@u-grenoble3.fr) 
+                    -A. Tutin (agnes.tutin@u-grenoble3.fr)</publisher>
+                <publisher>www.u-grenoble3.fr/lidilem/scientext</publisher>
+                <address>
+                    <addrLine>Université Stendhal Grenoble III -UFR des Sciences du Langage -BP 25 -38040 Grenoble cedex 9 
+                        Tél. : +33 (0) 4 76 82 43 74 -Fax : +33 (0) 4 76 82 43 95</addrLine>
+                </address>
+                <date>février 2009</date>
+                <idno>texte_article_scientext_105</idno>
+                <distributor>LIDILEM</distributor>
+                <availability>
+                    <p>Disponible gratuitement sous licence Creative Commons : http://creativecommons.org/licenses/by/2.0/</p>
+                    <p>Cette licence implique la libre reproduction et diffusion de l'œuvre au public, notamment par téléchargement, mais est soumise aux conditions suivantes :</p>
+                    <p>-	Respect du droit à la Paternité : l'Utilisateur est tenu de citer le nom de l'auteur original de la manière indiquée par l'Auteur de l'oeuvre (mais pas d'une manière qui suggérerait que l'Auteur soutient ou approuve l'utilisation de l'œuvre par l'Utilisateur) ;</p>
+                    <p>-	Pas d'Utilisation Commerciale : l'Utilisateur ne peut exploiter ou diffuser l'œuvre à des fins commerciales ;</p>
+                    <p>-	Pas de Modification : l'Utilisateur ne peut modifier l'œuvre originale sans l'accord express de l'Auteur, quelle que soit la nature et l'importance de cette modification ;</p>
+                    <p>-	Partage des Conditions à l'Identique : L'Utilisateur ne peut diffuser l'œuvre que sous une licence identique ; et aux mêmes conditions.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <author>Coralie Payre-Ficout</author><author>Jean-Pierre Chevrot</author>
+                    <title>La forme contre l'usage: étude exploratoire de l'acquisition du prétérit anglais 
+                    </title>
+                    <editor>Catherine Brissaud et Corinne Totereau</editor>
+                    <date>2001</date>
+                    <extent>101-116</extent>
+                    <title>LIDIL 30 -  Acquisition et enseignement de la morphographie</title>
+                    <pubPlace>Grenoble</pubPlace>
+                    <publisher>ELLUG</publisher>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc><p>Projet Scientext : un corpus et des outils pour étudier le positionnement et le raisonnement de l'auteur dans les 
+                écrits scientifiques. http://w3.u-grenoble3.fr/lidilem/scientext</p>
+                <p>Balisage réalisé par G. Bloquet, R. Barr, Mai Linh Nguyen et M. Mroué, Lidilem, Université Grenoble 3</p></projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fr">français</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="subjects"><list>
+                    <item/></list>
+                </keywords>
+                <keywords scheme="genre">
+                    <list><item>article</item></list>
+                </keywords>
+                <keywords scheme="discipline"><list><item>linguistique</item></list>
+                </keywords>
+                <keywords scheme="mothertongue">
+                    <list><item>français</item></list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front><head> La forme contre l'usage: étude exploratoire de l'acquisition du prétérit
+                anglais par des apprenants français</head>
+            <div type="abstract">
+                <docAuthor>
+                    <name>Coralie Payre-Ficout</name>
+                </docAuthor>
+                <docAuthor>
+                    <name>Jean-Pierre Chevrot,</name>
+                    <address>
+                        <addrLine> Laboratoire Lidilem, Université Grenoble 3</addrLine>
+                    </address></docAuthor>
+            </div>
+        </front>
+        <body>
+            <div type="introduction" n="1">
+                <p>Dans de nombreuses langues, l'apprentissage et la mise en œuvre de l'orthographe
+                    grammaticale restent des problèmes majeurs, auxquels se trouvent confrontés les
+                    scripteurs enfants ou adultes. Dans le cas de l'orthographe du français, les
+                    erreurs sur l'accord en nombre des formes verbales écrites en /E/ (-ai(en)t,
+                    -é(es)) demeurent fréquentes au moins jusqu'à la classe de troisième (Brissaud
+                    et Chevrot, 2000). Plus généralement, des erreurs affectant la morphologie
+                    verbale subsistent même dans les écrits d'adultes de niveau de formation élevé
+                    (Lucci et Millet, 1994). </p>
+                <p>Les nombreuses étapes que doivent franchir les jeunes apprenants francophones ou
+                    anglophones pour résoudre les difficultés grammaticales de l'orthographe de leur
+                    propre langue commencent à être connues (Thevenin, Totereau, Fayol, 1997 ;
+                    Nunes, Bryant et Bindman, 1997). En revanche, on ignore presque tout de ce
+                    processus quand il s'agit de l'apprentissage de la morphologie d'une langue
+                    étrangère enseignée dans le cadre scolaire. L'acquisition du prétérit oral entre
+                    2 et 6 ans et l'apprentissage de sa forme écrite ayant été largement décrits
+                    chez les jeunes anglophones, le choix de ce temps garantit la comparaison entre
+                    les processus d'apprentissage en langue maternelle et en langue étrangère.</p>
+                <p>En guise d'introduction, nous commencerons par présenter les principaux résultats
+                    concernant l'apprentissage du prétérit anglais par de jeunes Anglais, puis nous
+                    essayerons de cerner les conditions spécifiques caractérisant l'apprentissage de
+                    la morphologie verbale dans le cadre scolaire. Ensuite, nous proposerons une
+                    analyse contrastive des temps du passé en anglais et en français afin d'observer
+                    les secteurs de complexité potentielle pour les apprenants francophones. Enfin,
+                    nous présenterons une étude exploratoire de l'acquisition du prétérit anglais
+                    dans des textes écrits par des apprenants francophones. Nous la complèterons par
+                    une expérimentation construite à partir des hypothèses déduites de l'observation
+                    des formes verbales dans ces textes. Les résultats convergent pour suggérer que
+                    la conscience morphosyntaxique des apprenants, c'est-à-dire leur capacité à
+                    prendre conscience des unités morphosyntaxiques et à les manipuler délibérément,
+                    se centre sur la forme des verbes français au détriment des conditions d'usage
+                    du prétérit en anglais.</p>
+            </div>
+            <div type="section" n="1">
+                <head>1. Apprentissage du prétérit par les jeunes Anglais</head>
+                <p>Terezinha Nunes et ses collègues (1997) ont étudié l'apprentissage de
+                    l'orthographe du prétérit anglais en se focalisant sur les terminaisons –<hi rend="italic">ed</hi>. Selon leur description, le développement
+                    orthographique se déroulerait en cinq étapes. Lors de la première étape,
+                    dénommée étape pré-phonétique, les enfants n'orthographient pas systématiquement
+                    la terminaison des mots et donnent la base verbale. La seconde étape commence
+                    lorsque les enfants orthographient phonétiquement les terminaisons mais ne
+                    prêtent pas attention aux distinctions grammaticales. Ainsi, <hi rend="italic">kissed</hi> devient <hi rend="italic">kist</hi>. Lors de la troisième étape
+                    dite intermédiaire, les enfants devenus conscients que les correspondances
+                    lettre-son sont parfois inappropriées commencent à utiliser la terminaison <hi rend="italic">-ed</hi>. Cette étape se caractérise par la prise de
+                    conscience que certains mots se terminant par le son /d/, /t/, /id/
+                    s'orthographient <hi rend="italic">-ed</hi>. Cependant les enfants ne saisissent
+                    pas la signification grammaticale de la graphie <hi rend="italic">-ed</hi>.
+                    Ainsi, ils tendent à associer cette orthographe <hi rend="italic">-ed</hi> à des
+                    verbes mais également à d'autres catégories lexicales, par exemple des adjectifs
+                        (<hi rend="italic">soft</hi> devenant <hi rend="italic">sofed</hi>)<hi rend="italic">. </hi>La reconnaissance d'un lien entre grammaire et
+                    orthographe est la caractéristique de la quatrième étape. Durant cette étape les
+                    enfants utilisent la terminaison <hi rend="italic">-ed</hi> pour les verbes du
+                    passé mais ils la généralisent aussi aux verbes irréguliers. Enfin, lors de la
+                    cinquième étape les enfants écrivent <hi rend="italic">-ed</hi> uniquement à la
+                    fin des verbes réguliers. L'étude de Nunes et al. (1997) suggère que l'évolution
+                    dans l'utilisation du patron orthographique <hi rend="italic">-ed</hi> est
+                    étroitement liée à la conscience grammaticale : plus celle-ci est développée
+                    plus les enfants utilisent rapidement -<hi rend="italic">ed</hi> de manière
+                    appropriée.</p>
+            </div>
+            <div type="section" n="1">
+                <head>2. Spécificités de l'apprentissage de la morphologie verbale en contexte
+                    scolaire</head>
+                <p>Les conditions dans lesquelles les écoliers anglophones et les collégiens
+                    francophones abordent l'orthographe du verbe anglais sont différentes.
+                    Premièrement, les collégiens francophones sont plus âgés et disposent d'une
+                    maturation cognitive et d'un savoir métalinguistique sur leur langue maternelle
+                    qui modifient les conditions de la construction du savoir en langue étrangère.
+                    Deuxièmement, quand ils abordent l'apprentissage de l'orthographe, les écoliers
+                    anglais connaissent déjà les formes orales des verbes de leur langue. Pour eux,
+                    l'apprentissage orthographique se limite donc à apprendre une forme écrite face
+                    à une forme orale déjà maitrisée. De leur côté, les francophones doivent
+                    apprendre simultanément la forme orale et sa graphie. Troisièmement, lorsque les
+                    jeunes Anglais ont appris la morphologie verbale à l'oral, entre 2 et 6 ans, ils
+                    ont dû découvrir par eux-mêmes les régularités et les irrégularités. De leur
+                    côté, les collégiens francophones qui apprennent la conjugaison de l'anglais
+                    bénéficient d'un enseignement explicite des règles de formation et d'usage.
+                    S'agissant du prétérit, les enseignants donnent en effet la règle «ajouter –<hi rend="italic">ed</hi>» aux collégiens francophones, qui apprennent par
+                    ailleurs les verbes irréguliers par cœur sous forme de listes. </p>
+                <p>La connaissance préalable d'une langue peut favoriser mais également gêner la
+                    construction des savoirs en langue étrangère. L'analyse contrastive des systèmes
+                    linguistiques permet de pointer les zones de difficultés potentielles.</p>
+            </div>
+            <div type="section" n="1">
+                <head>3. Analyse contrastive des temps du passé en anglais et en français</head>
+                <p><hi rend="bold"> S'agissant des temps du passé, l'anglais et le français sont
+                        différents au niveau de l'organisation des paradigmes et de leur usage.</hi></p>
+                <p>Les deux systèmes d'aspect et de temps ne sont pas superposables. Si l'on
+                    considère par exemple la notion de passé, on est loin d'une correspondance terme
+                    à terme entre les paradigmes des deux langues. Selon le contexte, au prétérit
+                    anglais peut correspondre l'usage du passé composé, de l'imparfait et du passé
+                    simple. Au present perfect, correspondent le passé composé et le présent. Si
+                    l'on part du français, comme le font sans doute les apprenants débutants de
+                    l'anglais, les correspondances sont aussi complexes. En face du passé composé,
+                    il faudra choisir entre un prétérit et un present perfect. Seul le passé simple
+                    renvoie de façon univoque au prétérit.</p>
+                <p>Sur le plan de la forme, la langue française est une langue flexionnelle riche,
+                    notamment à l'écrit, caractérisée par un décalage entre la morphologie de l'oral
+                    et celle de l'écrit (Jaffré, 1998). Plus précisément, l'écrit distingue des
+                    formes verbales qui sont homophones à l'oral. La connaissance de la morphologie
+                    verbale orale ne permet donc pas de prédire les formes écrites, la transcription
+                    phonographique directe de l'oral ne prenant en compte ni l'existence de
+                    morphogrammes muets ni la multiplicité des liens entre phonèmes et graphèmes
+                    (dans le cas des formes verbales homophones en /E/ par exemple). Ainsi, la
+                    grammaire joue un rôle primordial dans la sélection de la flexion écrite. A
+                    l'inverse du français, l'anglais présente un système flexionnel extrêmement
+                    pauvre. La langue anglaise ne compte que deux temps grammaticaux, le présent et
+                    le passé, et ne connait, à l'exception de <hi rend="italic">be</hi> et de
+                    quelques verbes irréguliers, que trois marqueurs de la forme simple, deux pour
+                    le présent simple (<hi rend="italic">-s</hi> et Ø) et un seul pour le prétérit
+                        (<hi rend="italic">-ed</hi>). On peut trouver un verbe anglais sous quatre
+                    formes s'il est régulier (<hi rend="italic">play</hi>, <hi rend="italic">plays</hi>, <hi rend="italic">played</hi>, <hi rend="italic">playing</hi>) et
+                    entre trois et cinq s'il est irrégulier (Lapaire et Rotgé, 1991 ; Larreya et
+                    Rivière, 1991). A l'inverse du français, la graphie des verbes anglais
+                    neutralise souvent des différences sonores (cf. les différentes prononciations
+                    de la terminaison <hi rend="italic">-ed</hi>). De ce fait, à la différence du
+                    français, toute flexion écrite de l'anglais a un correspondant oral, ce qui
+                    facilite la scription. Toutefois, à une flexion écrite unique peuvent
+                    correspondre différentes prononciations. Comme en français, la transcription
+                    phonographique ne garantit donc pas la justesse morphographique.</p>
+                <p>En définitive, dans les deux langues, les apprenants doivent apprendre à se
+                    détacher de la forme orale pour produire la forme écrite, mais ils procèdent de
+                    manière différente. Les apprenants de la morphographie du français doivent
+                    plutôt comprendre qu'une même séquence sonore peut s'écrire de façons
+                    différentes. A l'inverse, les apprenants de la morphographie de l'anglais
+                    doivent plutôt comprendre que des séquences sonores différentes peuvent s'écrire
+                    de la même façon. </p>
+                <p>Ces différences dans l'usage et la forme des temps passés des deux langues
+                    devraient se manifester par des erreurs concernant ces deux plans dans les
+                    textes des jeunes Français apprenant l'anglais.</p>
+            </div>
+            <div type="section" n="1">
+                <head>4. Etude exploratoire du prétérit dans les textes de jeunes français</head>
+                <p>Nous avons réalisé une étude exploratoire auprès de 107 apprenants, répartis sur
+                    cinq niveaux différents : classes de quatrième (N = 20) et troisième (N = 20) du
+                    collège, classes de seconde (N = 30) et première (N = 23) du lycée et étudiants
+                    de deuxième année de deug Langues, Littératures et Civilisations Etrangères,
+                    spécialité anglais (N = 14). Nos objectifs étaient d'élaborer une typologie
+                    d'erreurs, d'esquisser le patron d'acquisition des apprenants français et de le
+                    comparer à celui des jeunes Anglais.</p>
+                <p>La tâche consistait à demander aux sujets de réaliser une production libre avec
+                    la consigne implicite d'utiliser le prétérit (narration d'un événement révolu).
+                    Dans une première étape, nous avons analysé les formes verbales justes. Cette
+                    analyse montre que globalement les élèves réussissent plutôt bien à former le
+                    prétérit (68.4 % de réussite). De façon inattendue, ce taux de réussite est
+                    significativement <ref target="#_ftn1">[1]</ref>.Nous avons appliqué, quand
+                    c'était possible, des tests d'inférence statistique (Wilcoxon, U de Man-Whitney,
+                    Kruskal-Wallis, Chi 2). Nous ne rentrerons pas ici dans le détail de ces tests,
+                    dont nous ne donnerons que la sortie (significatif ou non significatif). plus
+                    élevé pour les verbes irréguliers (77.2%) que pour les verbes réguliers (68.8%),
+                    même si nous ne retrouvons pas cette différence à l'intérieur de chaque niveau
+                    scolaire. Si l'on observe l'évolution de la réussite en fonction des niveaux, on
+                    constate que les taux stagnent en quatrième et troisième, puis marquent une
+                    progression significative lors du passage en seconde et jusqu'à l'université en
+                    deuxième année de deug.</p>
+                <p> Dans une deuxième étape, nous avons classé les 334 erreurs en dix catégories
+                    majeures dont certaines se divisent en sous catégories. La définition de ces
+                    catégories est donnée dans le tableau 1. Dans le tableau 2 apparaissent les
+                    fréquences d'occurrence des catégories et des sous-types, classés par ordre
+                    décroissant des incidences.</p>
+                <!--<table rows="1" cols="1"><head/><row><cell><list><item/><item><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></item><item/><item><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></item><item/><item/><item><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></item><item/><item/><item><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></item><item/><item/><item><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></item><item/><item><hi rend="italic"/></item><item><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></item><item/><item/><item><hi rend="italic"/><hi rend="italic"/></item><item/><item/><item><hi rend="italic"/><hi rend="italic"/></item><item/><item/><item><hi rend="italic"/><hi rend="italic"/></item><item/><item/><item><hi rend="italic"/><hi rend="italic"/></item></list></cell></row><row><cell/></row></table>-->
+            </div>
+            <div type="section" n="1">
+                <p> Après avoir retiré du corpus les erreurs ne relevant pas de la morphologie
+                    verbale (catégories 6, 12, 14, 15, 17 du tableau 2), nous avons constaté que sur
+                    les 284 erreurs restantes, 142 consistaient à produire une forme anglaise <hi rend="italic">composée</hi>, existante ou non, à la place du prétérit simple
+                    attendu (catégories 3, 4, 5, 8, 9, 10, 16, 18). Ces résultats suggèrent une
+                    nette influence des temps composés du français sur le choix de la forme
+                    anglaise. </p>
+                <!--<table rend="frame"><head/><row><cell><hi rend="italic"/></cell><cell><hi rend="italic"/></cell><cell><hi rend="italic"/></cell><cell><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell><hi rend="italic"/><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell/></row></table>-->
+                <p> Afin d'étayer cette hypothèse, nous avons observé si dans les formes composées
+                    erronées, les auxiliaires utilisés à tort correspondaient aux auxiliaires <hi rend="italic">être</hi> et <hi rend="italic">avoir</hi> du français. </p>
+                <p> Dans le tableau 3, on constate que les élèves utilisent massivement en anglais
+                    l'auxiliaire exigé par le verbe français au passé composé (69%). Par exemple, en
+                    troisième, 84% des formes composées erronées sont de type <hi rend="italic">he
+                        is get up,</hi> sans doute en référence à <hi rend="italic">il s'est
+                    levé</hi>. En bref, il existerait une centration sur la forme des verbes
+                    français pour sélectionner la forme des verbes anglais. Cette centration
+                    s'effectuerait au détriment des conditions d'usage du prétérit anglais. </p>
+                <!--<table rend="frame"><head/><row><cell><hi rend="italic"/></cell><cell cols="2"><hi rend="italic"/><hi rend="italic"/></cell><cell cols="2"><hi rend="italic"/></cell></row><row><cell><hi rend="italic"/></cell><cell><hi rend="italic"/></cell><cell><hi rend="italic"/></cell><cell><hi rend="italic"/></cell></row><row><cell><hi rend="italic"/></cell><cell/><cell/><cell/><cell/></row><row><cell><hi rend="italic"/></cell><cell/><cell/><cell/><cell/></row><row><cell><hi rend="italic"/></cell><cell/><cell/><cell/><cell/></row><row><cell><hi rend="italic"/></cell><cell/><cell/><cell/><cell/></row><row><cell><hi rend="italic"/></cell><cell/><cell/><cell/><cell/></row></table>-->
+            </div>
+            <div type="section" n="1">
+                <head>5. Etude expérimentale</head>
+                <p> Pour prouver l'existence d'une telle centration sur les temps composés du
+                    français et plus particulièrement sur le passé composé, nous avons demandé à
+                    trente sujets de classe de quatrième du collège de traduire des phrases
+                    comportant des formes verbales passées du français de deux types : certaines au
+                    passé composé, et d'autres au passé simple. Nous avons testé plusieurs types de
+                    verbes anglais : des verbes réguliers et des verbes irréguliers, certains
+                    fréquents et d'autres rares<ref target="#_ftn2">[2]</ref>. Ces verbes sont
+                    listés dans le tableau 4. </p>
+                <p> Ces 16 verbes étaient insérés dans 32 phrases en français qui se présentaient
+                    comme dans l'exemple suivant : </p>
+                <p> - En 1998, la France <hi rend="italic">a joué</hi> ………… (PLAY) la coupe du monde
+                    de foot contre le Brésil. </p>
+                <p> - En 1911, les rugbymen français <hi rend="italic">jouèrent</hi> ………… (PLAY)
+                    leur premier tournoi des cinq nations. </p>
+                <p> Une phrase rédigée en français comportait une forme verbale, simple (passé
+                    simple) ou composée (passé composé) selon le cas, soulignée et accompagnée de la
+                    base du verbe anglais entre parenthèses afin que l'effort de traduction se
+                    concentre essentiellement sur le choix d'un paradigme verbal de l'anglais. Les
+                    phrases étaient présentées sur un carnet dans un ordre aléatoire, à raison d'une
+                    seule phrase par page, afin de limiter les interférences entre réponses
+                    successives. La consigne était de traduire en anglais le verbe souligné et
+                    visait à orienter l'attention des sujets sur les formes verbales.</p>
+                <p>En constituant les phrases, nous avons pris garde de n'utiliser que des passés
+                    composés à valeur temporelle de passé, c'est-à-dire se traduisant nécessairement
+                    par un prétérit simple anglais. De plus, pour éviter toute ambiguïté, nous avons
+                    employé dans chaque phrase des indicateurs indiquant le décrochage par rapport
+                    au moment de l'énonciation et exigeant l'emploi du prétérit simple. </p>
+                <p>Les résultats montrent que globalement le remplacement par une forme composée est
+                    significativement plus fréquent quand la source est composée, c'est-à-dire quand
+                    la forme verbale française est au passé composé. Lorsque le verbe source en
+                    français est au passé composé, en moyenne 7.9 formes traduites sur un maximum de
+                    16 sont des formes composées (soit 49.3%). Si le verbe source en français est au
+                    passé simple, ce score chute à 1.35 (soit 8.4%).</p>
+                <!--<table rend="frame"><head/><row><cell/><cell cols="3"><hi rend="italic"/><hi rend="italic"/></cell><cell cols="3"><hi rend="italic"/></cell></row><row><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell><hi rend="italic"/></cell><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell><hi rend="italic"/><hi rend="italic"/></cell><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/><cell/></row></table>-->
+                <p>           Nous avons ensuite observé si cette différence persistait dans chaque
+                    catégorie de formes verbales (tableau 5). Pour les quatre points de comparaison
+                    du tableau, le test de Wilcoxon indique que la présence d'une forme composée
+                    dans le verbe source français induit la traduction de ce verbe par une forme
+                    composée anglaise, quelles que soient la régularité et la fréquence du verbe
+                    anglais. Ces résultats valident l'hypothèse selon laquelle les sujets forment
+                    les verbes anglais par référence aux formes composées du français, notamment au
+                    passé composé. </p>
+                <p>Une analyse détaillée des erreurs produites lors de l'expérimentation montre par
+                    ailleurs que le nombre de régularisations est nettement supérieur à ce que nous
+                    avons constaté dans les textes narratifs. Dans l'étude exploratoire sur les
+                    productions d'écrits, nous avions trouvé au total 14 erreurs de régularisation
+                    sur 1006 verbes irréguliers d'où un pourcentage de régularisation de 0,20 %.
+                    Dans l'expérimentation, le taux global de régularisation est de 25,3 % soit 126
+                    fois plus que dans le corpus. Cette différence suggère que l'expérimentation
+                    favorise ces régularisations en imposant la traduction de formes verbales
+                    irrégulières rares.   </p>
+                <!--<table rend="frame" xml:id="Tableau1"><head><hi rend="italic"/><hi rend="italic"/></head><row><cell/><cell cols="2"><hi/></cell><cell cols="2"><hi/></cell></row><row><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/></row><row><cell/><cell/><cell/><cell/><cell/></row></table>-->
+            </div>
+            <div type="conclusion" n="1">
+                <head>6. Discussion</head>
+                <p>Nous constatons que l'acquisition du prétérit anglais par des apprenants français
+                    diffère de son acquisition par les jeunes Anglais. En effet, certains des
+                    résultats obtenus par l'analyse du corpus et par le protocole expérimental ne
+                    correspondent pas aux points forts du scénario développemental élaboré par
+                    Terezinha Nunes et ses collègues (1997).</p>
+                <p>Premièrement, les erreurs de régularisation, fréquentes chez les jeunes
+                    anglophones, sont quasi inexistantes dans les textes des jeunes Français mais
+                    nombreuses dans l'expérimentation. La confrontation entre un recueil contrôlé
+                    des données par traduction et un recueil plus spontané par narration écrite
+                    indique que la régularisation est un processus disponible chez les apprenants
+                    français, mais peu exploité en production libre de textes, sans doute du fait de
+                    l'évitement des verbes irréguliers peu ou pas connus.</p>
+                <p>Deuxièmement, nous observons un phénomène massif, dont l'origine n'a jamais été
+                    établie empiriquement dans les études sur l'apprentissage du prétérit anglais
+                    par les jeunes Anglais : le remplacement d'une forme simple par une forme
+                    composée. L'analyse du corpus indique également que l'auxiliaire impliqué dans
+                    les erreurs que nous avons nommées «be conjugué» et «have conjugué» correspond
+                    dans 69 % des cas à l'auxiliaire français. </p>
+                <p>Nous interpréterons ce classique phénomène de transfert dans les termes d'une
+                    focalisation de la conscience morphosyntaxique des sujets français sur la forme
+                    au détriment de l'usage. Les apprenants chercheraient à reproduire la séquence
+                    «auxiliaire + participe passé» du français et négligeraient les conditions
+                    d'usages des temps de l'anglais. On peut supposer que cette centration sur la
+                    forme au détriment de l'usage provient de l'absence d'un enseignement de
+                    l'aspect dans la grammaire scolaire du français. Plus précisément, la
+                    distinction entre le passé composé à valeur d'accompli du présent, qui se
+                    traduit par un present perfect anglais, et le passé composé à valeur aoristique,
+                    qui se traduit par un prétérit anglais, ne fait pas l'objet d'un enseignement
+                    systématique à l'école primaire et au collège. Démunis des bases
+                    métagrammaticales leur permettant de comprendre les conditions d'usage des temps
+                    de l'anglais, les jeunes Français utiliseraient la forme composées ou la forme
+                    simple du français comme unique repère Ce serait donc bien un défaut de la
+                    conscience morphosyntaxique dans la langue maternelle qui provoquerait l'erreur
+                    dans la langue étrangère.</p>
+                <p>Dans le domaine de la langue maternelle, on connait depuis longtemps l'impact de
+                    la conscience métalinguistique sur les apprentissages scolaires de l'écrit
+                    (Gombert, 1990). Plusieurs études ont démontré également que les connaissances
+                    métalinguistiques en langue maternelle sont étroitement liées à la réussite de
+                    l'apprentissage de la langue étrangère. Ce résultat est établi pour
+                    l'apprentissage de l'hébreu par des enfants anglais et l'apprentissage de
+                    l'anglais par des enfants portugais, même si les langues en jeu ont des
+                    structures différentes (Bindman, 2003 ; Castro, 2003). Ce transfert ne
+                    s'effectuerait pas seulement de la langue maternelle vers la langue étrangère.
+                    En effet, les principes grammaticaux acquis en langue étrangère peuvent apporter
+                    une meilleure compréhension aux enfants qui sont en train de développer leur
+                    conscience grammaticale en langue maternelle. Ceci peut s'avérer vrai pour des
+                    aspects grammaticaux qui sont marqués plus clairement en langue étrangère qu'en
+                    langue maternelle et qui bénéficient d'une instruction explicite.</p>
+                <p>Dès lors, nous rejoignons les résultats précurseurs et les positions défendues
+                    par Louise Dabène (1983) dans un cadre didactique : un travail métalinguistique
+                    sur la grammaire de la langue maternelle en situation d'apprentissage scolaire
+                    doit contribuer à une meilleure maitrise du système de la langue étrangère. </p>
+            </div>
+        </body>
+        <back>
+            
+            <div type="notes">
+                <note>
+                    <anchor xml:id="_ftn1"/>
+                    <ref>[1]</ref> Nous avons  appliqué, quand c'était possible, des tests
+                    d'inférence statistique (Wilcoxon, U de Man-Whitney, Kruskal-Wallis, Chi 2).
+                    Nous ne rentrerons pas ici dans le détail de ces tests, dont nous ne donnerons
+                    que la sortie (significatif ou non significatif). </note>
+                <note>
+                    <anchor xml:id="_ftn2"/>
+                    <ref>[2]</ref> A défaut d'une description des fréquences dans l'environnement de
+                    la classe de langue, nous avons utilisé les valeurs utilisées par Rumelhart et
+                    McClelland (1987) élaborées à partir du corpus de Brown, établi par Kucera et
+                    Francis (1964), et consistant en un million de mots provenant de 15 catégories
+                    différentes de textes. </note>
+            </div>
+        </back>
+    </text>
+</TEI>
