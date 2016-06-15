@@ -17,6 +17,6 @@ do
 	 -option "termes" 1>> /dev/null
 
     f="$1/termith_result/terms_enrichment/$fb.xml"
-    rnv_validation $1 $cphase stdf
+    rnv_validation $1/termith_result/$cphase stdf
 done
-check_log_folder $1 $cphase
+check_log_folder $1/termith_result/$cphase

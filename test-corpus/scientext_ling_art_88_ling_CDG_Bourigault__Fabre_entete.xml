@@ -7,11 +7,11 @@
                 <title>corpus scientext</title>
             </titleStmt>
             <publicationStmt>
-                <publisher>LIDILEM -Projet Scientext -Université Grenoble 3 -Stendhal -F. Grossmann (francis.grossmann@u-grenoble3.fr) 
-                    -A. Tutin (agnes.tutin@u-grenoble3.fr)</publisher>
+                <pubisher>LIDILEM -Projet Scientext -Université Grenoble 3 -Stendhal -F. Grossmann (francis.grossmann@u-grenoble3.fr)
+                    -A. Tutin (agnes.tutin@u-grenoble3.fr)</pubisher>
                 <publisher>www.u-grenoble3.fr/lidilem/scientext</publisher>
                 <address>
-                    <addrLine>Université Stendhal Grenoble III -UFR des Sciences du Langage -BP 25 -38040 Grenoble cedex 9 
+                    <addrLine>Université Stendhal Grenoble III -UFR des Sciences du Langage -BP 25 -38040 Grenoble cedex 9
                         Tél. : +33 (0) 4 76 82 43 74 -Fax : +33 (0) 4 76 82 43 95</addrLine>
                 </address>
                 <date>février 2009</date>
@@ -31,12 +31,12 @@
                     <author>Didier Bourigault</author>
                     <author>Cécile Fabre</author>
                     <editor>Anne Condamines</editor>
-                    <title>Approche linguistique pour l'analyse syntaxique de corpus 
+                    <title>Approche linguistique pour l'analyse syntaxique de corpus
                     </title>
                     <editor/>
                     <date>2000</date>
                     <extent/>
-                    <title>Cahiers de Grammaire 25 
+                    <title>Cahiers de Grammaire 25
                     </title>
                     <pubPlace>Toulouse-Mirail</pubPlace>
                     <publisher/>
@@ -44,7 +44,7 @@
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <projectDesc><p>Projet Scientext : un corpus et des outils pour étudier le positionnement et le raisonnement de l'auteur dans les 
+            <projectDesc><p>Projet Scientext : un corpus et des outils pour étudier le positionnement et le raisonnement de l'auteur dans les
                 écrits scientifiques. http://w3.u-grenoble3.fr/lidilem/scientext</p>
                 <p>Balisage réalisé par G. Bloquet, R. Barr, Mai Linh Nguyen et M. Mroué, Lidilem, Université Grenoble 3</p></projectDesc>
         </encodingDesc>
@@ -846,7 +846,7 @@
             </div>
         </body>
         <back>
-            
+
             <div type="notes">
                 <note>
                     <anchor xml:id="_ftn1"/>

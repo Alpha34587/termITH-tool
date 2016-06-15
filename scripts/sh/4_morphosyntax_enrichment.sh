@@ -17,6 +17,6 @@ do
 	 -option "treetagger"
 
     f="$1/termith_result/morphosyntax_enrichment/$fb.xml"
-    rnv_validation $1 $cphase stdf
+    rnv_validation $1/termith_result/$cphase stdf
 done
-check_log_folder $1 $cphase
+check_log_folder $1/termith_result/$cphase

@@ -1,0 +1,27 @@
+test-corpus/scientext_ling_art_88_ling_CDG_Bourigault__Fabre_entete.xml
+test-corpus/scientext_ling_art_88_ling_CDG_Bourigault__Fabre_entete.xml:10:16: error: element http://www.tei-c.org/ns/1.0^pubisher not allowed
+required:
+	element http://www.tei-c.org/ns/1.0^publisher
+	element http://www.tei-c.org/ns/1.0^distributor
+	element http://www.tei-c.org/ns/1.0^authority
+	element http://www.tei-c.org/ns/1.0^p
+	element http://www.tei-c.org/ns/1.0^ab
+error: some documents are invalid
+test-corpus/scientext_ling_art_88_ling_CDG_Bourigault__Fabre_entete.xml
+test-corpus/scientext_ling_art_88_ling_CDG_Bourigault__Fabre_entete.xml:10:16: error: element http://www.tei-c.org/ns/1.0^pubisher not allowed
+required:
+	element http://www.tei-c.org/ns/1.0^publisher
+	element http://www.tei-c.org/ns/1.0^distributor
+	element http://www.tei-c.org/ns/1.0^authority
+	element http://www.tei-c.org/ns/1.0^p
+	element http://www.tei-c.org/ns/1.0^ab
+error: some documents are invalid
+test-corpus/scientext_ling_art_88_ling_CDG_Bourigault__Fabre_entete.xml
+test-corpus/scientext_ling_art_88_ling_CDG_Bourigault__Fabre_entete.xml:10:16: error: element http://www.tei-c.org/ns/1.0^pubisher not allowed
+required:
+	element http://www.tei-c.org/ns/1.0^publisher
+	element http://www.tei-c.org/ns/1.0^distributor
+	element http://www.tei-c.org/ns/1.0^authority
+	element http://www.tei-c.org/ns/1.0^p
+	element http://www.tei-c.org/ns/1.0^ab
+error: some documents are invalid

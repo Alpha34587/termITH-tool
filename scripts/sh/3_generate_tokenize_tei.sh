@@ -14,7 +14,7 @@ do
   -out "$1/termith_result/tei_tokenized/$fb.xml" 1>> /dev/null
 
   f="$1/termith_result/tei_tokenized/$fb.xml"
-  rnv_validation $1 $cphase stdf
+  rnv_validation $1/termith_result/$cphase stdf
 done
 
-check_log_folder $1 $cphase
+check_log_folder $1/termith_result/$cphase
