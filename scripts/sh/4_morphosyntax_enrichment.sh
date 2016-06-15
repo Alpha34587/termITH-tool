@@ -6,7 +6,6 @@ create_folder $1 termith_result/$cphase log
 
 for f in "$1/termith_result/tei_tokenized/"*.xml
 do
-    echo $f
     fb=`basename $f .xml`
     java -cp "$java/"premaf.jar com.repacking2premaf1.StandoffCLI \
 	 -xml "$f" \

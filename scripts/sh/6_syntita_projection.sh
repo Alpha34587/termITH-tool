@@ -7,4 +7,4 @@ java -Xms2g -Xmx5g -cp $java/multi-words-detection.jar org.termith.SyntitaDeploy
 -tk "$1/termith_result/tei_tokenized" \
 -tei "$1/termith_result/terms_enrichment" \
 -sy "ressources/syntita.json" \
--out "$1/termith_result/syntita-projection"
+-out "$1/termith_result/syntita_projection"
