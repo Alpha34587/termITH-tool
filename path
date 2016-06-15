@@ -11,4 +11,3 @@ logiciels=`realpath scripts/logiciels`
 treetagger=`realpath scripts/logiciels/treetagger/`
 saxon="java -Xms1024m -Xmx2048m -jar scripts/logiciels/saxon-9.1.0.8j.jar"
 alias rm='rm -f'
-tbx="ressources/terminologies/termsuite"
