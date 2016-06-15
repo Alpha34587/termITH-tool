@@ -6,3 +6,4 @@ for f in "$1/"*.xml
 do
   rnv_validation $1 test_corpus
 done
+check_log_folder $1
