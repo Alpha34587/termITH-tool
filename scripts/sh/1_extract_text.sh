@@ -2,7 +2,7 @@
 source path
 
 cphase=7
-create-folder $1 text
+create_folder $1 text
 
 for f in "$1/"*.xml
 do

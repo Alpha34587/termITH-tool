@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function create-folder {
+function create_folder {
 
   if [ -d "$1/$2" ]
   then
