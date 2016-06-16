@@ -5,6 +5,7 @@
 ## How to Use it ?
 
 ## Link
+- TreeTagger : http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
 ## Ressource
 
@@ -12,5 +13,4 @@
 
 ## TODO
 
-- externalize treetagger
 - create "debug mode"
