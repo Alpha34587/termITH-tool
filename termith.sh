@@ -43,10 +43,10 @@ then
   echo "Error: missing argument(s)"
   exit 2
 fi
-
 create_folder $INPUT termith_result
 
 ./scripts/sh/0_files_validation.sh $INPUT
+trap "echo tei error(s) see the log folder ! ;exit" SIGUSR1
 ./scripts/sh/1_extract_text.sh $INPUT
 ./scripts/sh/2_termsuite_analyze.sh $INPUT $TREETAGGER
 ./scripts/sh/3_generate_tokenize_tei.sh $INPUT
