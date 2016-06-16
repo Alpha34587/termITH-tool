@@ -2,9 +2,10 @@
 
 ## Installation
 
-## How to Use it ?
+## Comment l'utiliser ?
 
-## Link
+## Liens Utiles
+
 - TreeTagger : http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
 ## Ressource
@@ -13,4 +14,4 @@
 
 ## TODO
 
-- create "debug mode"
+- Ecrire la doc
