@@ -28,7 +28,7 @@ l'ensemble des fichiers en entrée doit être au format tei/xml valide
 ## Format de Sortie
 
 - *termith_result/ressources* : contient la terminologie en JSON ainsi que la base des lexiques transdisciplinaires et les syntagmes définis
-- *termith_result/enrich_files* : contient les fichiers enrichis tei avec les annotations se trouvant dans `TEI/ns:standoff`
+- *termith_result/enrich_files* : ce dossier contient les fichiers tei enrichis. Chaque annotations générées par le programme à un élément `ns:standOff` qui lui est associé, ces éléments sont fils de l'élément `TEI` 
 
 ## Liens Utiles
 
