@@ -6,14 +6,14 @@
 2. s'assurer qu'une version de TreeTagger est installé sur la machine, pour vérifier : `echo "Bonjour !" | tree-tagger-french`
 3. télécharger le modèle d'apprentissage français de treetagger (fichier .par): http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/data/french-par-linux-3.2-utf8.bin.gz
 4. décompresser l'archive vers chemin/vers/treetagger/lib et renommer le fichier .par ainsi extrait avec le nom suivant : `french-utf8.par`
-5. tester l'outil avec la commande suivante : `./termith.sh -i test-corpus -t 'chemin/vers/treetagger'`
+5. tester l'outil avec la commande suivante : `./termith.sh -i test-corpus -t chemin/vers/treetagger`
 6. Si tout ce passe bien il y aura dans le dossier *test-corpus* les résultats de l'analyse dans le sous-dossier *termith_result*
 
 ## Comment l'utiliser ?
 
 A la racine du projet git, éxécuter la commande suivante :
 
-`./termith.sh -i test-corpus -t 'chemin/vers/treetagger'`
+`./termith.sh -i test-corpus -t chemin/vers/treetagger`
 
 les options :
 
